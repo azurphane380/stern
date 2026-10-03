@@ -1,0 +1,7 @@
+{
+  "source": "https://github.com/stern/stern",
+  "commit": "96b3c3a15a46e42080ec8413d9f4a636d765709d",
+  "license": "Apache-2.0",
+  "snapshot": "bounded source subset; workflows excluded",
+  "purpose": "Independent encrypted storage; not an upstream release or endorsement"
+}
